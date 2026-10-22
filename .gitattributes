@@ -1,6 +1,11 @@
-CSCI[[:space:]]4330[[:space:]]-[[:space:]]Midterm[[:space:]]Code.zip filter=lfs diff=lfs merge=lfs -text
 mimic_style_synthetic_500k.csv filter=lfs diff=lfs merge=lfs -text
 mimic_style_synthetic_1m.csv filter=lfs diff=lfs merge=lfs -text
 mimic_style_synthetic_5m.csv filter=lfs diff=lfs merge=lfs -text
 mimic_style_synthetic_10m.csv filter=lfs diff=lfs merge=lfs -text
-mimic_style_synthetic_30m.csv filter=lfs diff=lfs merge=lfs -text
+mimic_chunk_00.csv filter=lfs diff=lfs merge=lfs -text
+mimic_chunk_01.csv filter=lfs diff=lfs merge=lfs -text
+mimic_chunk_02.csv filter=lfs diff=lfs merge=lfs -text
+mimic_chunk_03.csv filter=lfs diff=lfs merge=lfs -text
+mimic_chunk_04.csv filter=lfs diff=lfs merge=lfs -text
+mimic_chunk_05.csv filter=lfs diff=lfs merge=lfs -text
+mimic_chunk_06.csv filter=lfs diff=lfs merge=lfs -text
